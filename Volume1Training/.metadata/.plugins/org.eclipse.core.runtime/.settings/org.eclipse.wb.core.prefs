@@ -1,0 +1,5 @@
+common.showVersionWarning=true
+eclipse.preferences.version=1
+editor.formatOnSave=true
+editor.maximizeOnDesignPage=true
+editor.recognizeSourceGUI=true
